@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/nodejs-ihrevyqt:0d1d7d7ef5fd5831648e08fe6bbb63839b74a8dd@sha256:51f1cbad87451c055189b75a44106802a91bf5191199f220a6b0a88df732971f
+        - image: quay.io/tsscui/nodejs-ihrevyqt:cdc0b81010e2c5323c6d4035cfe5c0458c03e7d0@sha256:f0e859118f7dae030c12234245e1191fc41dbcfe72ba56bd5c543c6647a5af16
           name: container-image
